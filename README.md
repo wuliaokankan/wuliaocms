@@ -29,7 +29,8 @@ springboot+mybatis+freemaker
 
 http://www.wlkankan.cn/cate40/
 
-#### 其他系统方案
+
+#### 楼主其他系统及方案
 
 [微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
 
