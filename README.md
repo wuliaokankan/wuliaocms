@@ -27,6 +27,10 @@ springboot+mybatis+freemaker
 
 [http://www.wlkankan.cn](http://www.wlkankan.cn)
 
+
+http://www.wlkankan.com/
+
+
 http://www.wlkankan.cn/cate40/
 
 
@@ -34,11 +38,11 @@ http://www.wlkankan.cn/cate40/
 
 [微信个人号淘客返利机器人项目](https://gitee.com/tangjinjinwx/wechatbot)
 
-[微信公众号淘客查券返利系统](https://gitee.com/tangjinjinwx/wechatfanli)
+[微信公众号淘客查券返利系统项目](https://gitee.com/tangjinjinwx/wechatfanli)
 
-[个人微信开发SDK](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
+[个人微信开发SDK项目](https://gitee.com/tangjinjinwx/Public.WeChat.CRM.SDK/)
 
-[淘宝客CMS](https://gitee.com/tangjinjinwx/taokecms)
+[淘宝客查券返利CMS项目](https://gitee.com/tangjinjinwx/taokecms)
 
 
 #### 合作咨询请加微信happybabby110
